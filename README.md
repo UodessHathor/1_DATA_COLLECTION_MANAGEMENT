@@ -35,9 +35,7 @@ In this repo you will find **one case study** on building a **Data infrastrutur
 
 ---
 ---
-
-
-![Kayak](https://seekvectorlogo.com/wp-content/uploads/2018/01/kayak-vector-logo.png, height=40%)
+![Kayak](https://seekvectorlogo.com/wp-content/uploads/2018/01/kayak-vector-logo.png)
 
 # Plan your trip with Kayak 
 
