@@ -27,7 +27,7 @@ In this repo you will find **one case study** on building a **Data infrastrutur
             * https://project-scraping-doshdyndss-jedha-certification.s3.eu-west-3.amazonaws.com/merge_df.csv  
     * 👉🏽 **best_hotels.db**👈 is the database created, based on the merge_df, so that you can directly work on it with SQL ⭐️ 
 
----
+
 
       
  - 👇🏽 *Down here you have the full description of projects from Jedha, hope you enjoy them as did making them* 👇🏽
@@ -37,7 +37,7 @@ In this repo you will find **one case study** on building a **Data infrastrutur
 ---
 
 
-![Kayak](https://seekvectorlogo.com/wp-content/uploads/2018/01/kayak-vector-logo.png)
+![Kayak](https://seekvectorlogo.com/wp-content/uploads/2018/01/kayak-vector-logo.png, height=40%)
 
 # Plan your trip with Kayak 
 
