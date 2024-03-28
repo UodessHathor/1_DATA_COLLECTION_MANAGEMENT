@@ -12,20 +12,20 @@ In this repo you will find **one case study** on building a **Data infrastrutur
 
  * 🟡 🔗 **PART 1** :  Have a look at <ins>*Part_1_Top5_Cities_Weather_dorianedoyondousse.ipynb*</ins>  : top 5 french cities 🌇
    
-    * 👉🏽**Top5cities_forecast_weather.csv**👈🏽 is the dataframe obtained and *used for the rest of the project*. ⭐️ 
+    * 👉🏽 **Top5cities_forecast_weather.csv** is the dataframe obtained and *used for the rest of the project*. ⭐️ 
         * It's accessory but you can also check those obtained during the process : 
            * *all_cities_forecast.csv*  : all of the 35 cities weather infos
-           * *all_cities_MEAN_weather_forecast.csv*  : mean of weather characterics for the 35 initial cities
+           * *all_cities_MEAN_weather_forecast.csv*  : mean of weather characterics for the 35 initial cities <br>
 
 
  * 🟢 🔗 **PART 2**: <ins>*Part_2_ScrapeBooking_dorianedoyondousse.ipynb*</ins> : scrapping Booking website 🕷️
    
-    * 👉🏽**scraped_hotels.json**👈🏽 is the json file obtained after scrapping the website. ⭐️ 
-    * 👉🏽**csv_scraping_kayak_project.csv**👈🏽 is the dataframe where all hotels infos collecting during the scrapping has been put.
-    * 👉🏽**merge_df**👈🏽 is the dataframe where I merged infos from top 5 cities weather and scrapped hotels, in order to create a unique file gathering data ⭐️ 
-        * **Link_s3_dataset_url.md** : merge_df has been stored in a S3 bucket, check the md file or click down bellow : 
+    * 👉🏽 **scraped_hotels.json** is the json file obtained after scrapping the website. ⭐️ 
+    * 👉🏽 **csv_scraping_kayak_project.csv** is the dataframe where all hotels infos collecting during the scrapping has been put.
+    * 👉🏽 **merge_df** is the dataframe where I merged infos from top 5 cities weather and scrapped hotels, in order to create a unique file gathering data ⭐️ 
+        * 🛜 **Link_s3_dataset_url.md** : merge_df has been stored in a S3 bucket, check the md file or click down bellow : 
             * https://project-scraping-doshdyndss-jedha-certification.s3.eu-west-3.amazonaws.com/merge_df.csv  
-    * 👉🏽**best_hotels.db**👈🏽 is the database created, based on the merge_df, so that you can directly work on it with SQL ⭐️ 
+    * 👉🏽 **best_hotels.db**👈 is the database created, based on the merge_df, so that you can directly work on it with SQL ⭐️ 
 
 ---
 
