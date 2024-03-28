@@ -28,7 +28,7 @@ In this repo you will find **one case study** on building a **Data infrastrutur
     * 👉🏽 **best_hotels.db**👈 is the database created, based on the merge_df, so that you can directly work on it with SQL ⭐️ 
 
 
-
+---
       
  - 👇🏽 *Down here you have the full description of projects from Jedha, hope you enjoy them as did making them* 👇🏽
 
