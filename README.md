@@ -1,4 +1,4 @@
-# Welcome! A Data Collection & Management project is available here🩵
+# Hey! A Data Collection & Management project is available here🩵
 
 
 In this repo you will find **one case study** on building a **Data infrastruture** (storing, collecting with scrapping technic and data storage).
