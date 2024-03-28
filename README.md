@@ -12,10 +12,10 @@ In this repo you will find **one case study** on building a **Data infrastrutur
 
  * 🔗 **PART 1** :  Have a look at <ins>*Part_1_Top5_Cities_Weather_dorianedoyondousse.ipynb*</ins>  : top 5 french cities 🌇
    
-    * **Top5cities_forecast_weather.csv** is the dataframe obtained and *used for the rest of the project*. ⭐️ 
+    * <ins>**Top5cities_forecast_weather.csv** is the dataframe obtained and *used for the rest of the project*. ⭐️ 
         * It's accessory but you can also check those obtained during the process : 
-           * all_cities_forecast.csv : all of the 35 cities weather infos
-           * all_cities_MEAN_weather_forecast.csv : mean of weather characterics for the 35 initial cities
+           * <ins>all_cities_forecast.csv</ins>  : all of the 35 cities weather infos
+           * <ins>all_cities_MEAN_weather_forecast.csv</ins>  : mean of weather characterics for the 35 initial cities
 
  * 🔗 **PART 2**: <ins>*Part_2_ScrapeBooking_dorianedoyondousse.ipynb*</ins> : scrapping Booking website 🕷️
         - **scraped_hotels.json** is the json file obtained after scrapping the website. ⭐️ 
