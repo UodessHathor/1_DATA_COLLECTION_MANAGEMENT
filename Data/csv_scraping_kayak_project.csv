@@ -1,0 +1,51 @@
+,City,Latitude,Longitude,Temperature,Pressure,Humidity,id,hotel_name,hotel_score,hotel_latitude,hotel_longitude
+0,Aigues Mortes,43.57,4.19,8.32,1009.9,58.92,102716851,Hotel Canal Aigues Mortes,8.5,43.57,4.19
+1,Aigues Mortes,43.57,4.19,8.32,1009.9,58.92,102716851,Notre cocon des remparts,,43.57,4.19
+2,Aigues Mortes,43.57,4.19,8.32,1009.9,58.92,102716851,Résidence Odalys Le Mas des Flamants,8.1,43.57,4.18
+3,Aigues Mortes,43.57,4.19,8.32,1009.9,58.92,102716851,Hôtel Le Médiéval,8.6,43.57,4.19
+4,Aigues Mortes,43.57,4.19,8.32,1009.9,58.92,102716851,La Maison de Lyna,9.1,43.57,4.19
+5,Aigues Mortes,43.57,4.19,8.32,1009.9,58.92,102716851,Hôtel Saint Louis,8.4,43.57,4.19
+6,Aigues Mortes,43.57,4.19,8.32,1009.9,58.92,102716851,Résidence Odalys Fleur de Sel,8.3,43.57,4.18
+7,Aigues Mortes,43.57,4.19,8.32,1009.9,58.92,102716851,La Villa Mazarin,9.2,43.56,4.19
+8,Aigues Mortes,43.57,4.19,8.32,1009.9,58.92,102716851,Maison des Croisades,8.8,43.57,4.19
+9,Aigues Mortes,43.57,4.19,8.32,1009.9,58.92,102716851,le dit vin secret,8.6,43.57,4.19
+10,Nimes,43.84,4.36,7.01,1009.9,60.72,102307633,Appart'City Collection Nîmes Arènes,8.6,43.83,4.36
+11,Nimes,43.84,4.36,7.01,1009.9,60.72,102307633,Zenitude Hôtel-Résidences Nîmes Centre,7.9,43.83,4.37
+12,Nimes,43.84,4.36,7.01,1009.9,60.72,102307633,Mezza'Nîmes,9.3,43.84,4.37
+13,Nimes,43.84,4.36,7.01,1009.9,60.72,102307633,Odalys City Nîmes Arènes,,43.83,4.36
+14,Nimes,43.84,4.36,7.01,1009.9,60.72,102307633,logement f2 centre calme avec garage,7.9,43.83,4.36
+15,Nimes,43.84,4.36,7.01,1009.9,60.72,102307633,Twenty Business Flats Nîmes Trigone,8.3,43.83,4.37
+16,Nimes,43.84,4.36,7.01,1009.9,60.72,102307633,Maison Albar Hotels L’Imperator,9.1,43.84,4.35
+17,Nimes,43.84,4.36,7.01,1009.9,60.72,102307633,hotelF1 Nîmes Ouest,6.5,43.82,4.34
+18,Nimes,43.84,4.36,7.01,1009.9,60.72,102307633,Appartement avec terrasse panoramique au coeur de Nîmes,9.3,43.84,4.36
+19,Nimes,43.84,4.36,7.01,1009.9,60.72,102307633,Logis NIMOTEL Hôtel Cosy,7.7,43.82,4.35
+20,Saintes Maries de la mer,43.45,4.43,8.56,1009.6,62.65,102529062,Les Vagues,8.7,43.45,4.43
+21,Saintes Maries de la mer,43.45,4.43,8.56,1009.6,62.65,102529062,Manade des Baumelles,8.5,43.52,4.37
+22,Saintes Maries de la mer,43.45,4.43,8.56,1009.6,62.65,102529062,Maison l'Etrier,9.2,43.47,4.41
+23,Saintes Maries de la mer,43.45,4.43,8.56,1009.6,62.65,102529062,Mas De Calabrun,8.4,43.5,4.43
+24,Saintes Maries de la mer,43.45,4.43,8.56,1009.6,62.65,102529062,Thalacap Camargue,7.8,43.45,4.44
+25,Saintes Maries de la mer,43.45,4.43,8.56,1009.6,62.65,102529062,Le Castelet,6.8,43.45,4.43
+26,Saintes Maries de la mer,43.45,4.43,8.56,1009.6,62.65,102529062,Hôtel Casa Marina,8.9,43.45,4.43
+27,Saintes Maries de la mer,43.45,4.43,8.56,1009.6,62.65,102529062,Hotel Le Bleu Marine,7.6,43.45,4.43
+28,Saintes Maries de la mer,43.45,4.43,8.56,1009.6,62.65,102529062,"Mas du Couvin, maison d'hôtes en Camargue",9.6,43.5,4.43
+29,Saintes Maries de la mer,43.45,4.43,8.56,1009.6,62.65,102529062,"Appartement Saintes-Maries-de-la-Mer, 2 pièces, 4 personnes - FR-1-475-111",,43.45,4.44
+30,Uzes,44.01,4.42,5.95,1010.08,66.03,106427400,LOGIS HOTEL RESTAURANT L' Auberge d'Uzes,8.4,43.99,4.42
+31,Uzes,44.01,4.42,5.95,1010.08,66.03,106427400,Chambre Hôte vue splendide,8.8,44.01,4.42
+32,Uzes,44.01,4.42,5.95,1010.08,66.03,106427400,Le trente trois,8.9,44.01,4.42
+33,Uzes,44.01,4.42,5.95,1010.08,66.03,106427400,Les cèdres,9.6,44.01,4.41
+34,Uzes,44.01,4.42,5.95,1010.08,66.03,106427400,UZES APPART HOTEL Résidence Le Mas des Oliviers,7.5,44.01,4.41
+35,Uzes,44.01,4.42,5.95,1010.08,66.03,106427400,Logis Hotel Restaurant Uzès Pont du Gard,7.7,44.0,4.42
+36,Uzes,44.01,4.42,5.95,1010.08,66.03,106427400,La Maison du Puisatier • Centre historique • Piscine chauffée •Jardin,,44.01,4.42
+37,Uzes,44.01,4.42,5.95,1010.08,66.03,106427400,La Taverne,8.6,44.01,4.42
+38,Uzes,44.01,4.42,5.95,1010.08,66.03,106427400,La maison d'HamiH,,44.0,4.41
+39,Uzes,44.01,4.42,5.95,1010.08,66.03,106427400,Boutique Hôtel Entraigues,8.9,44.01,4.42
+40,Paris,48.85,2.35,4.37,1017.65,67.42,114827617,Hotel Geoffroy Marie Opéra,8.0,48.87,2.34
+41,Paris,48.85,2.35,4.37,1017.65,67.42,114827617,Maison Eugenie,8.1,48.89,2.31
+42,Paris,48.85,2.35,4.37,1017.65,67.42,114827617,Le Katorze Hôtel,8.4,48.89,2.32
+43,Paris,48.85,2.35,4.37,1017.65,67.42,114827617,Hôtel Le Daum,8.4,48.84,2.4
+44,Paris,48.85,2.35,4.37,1017.65,67.42,114827617,Hôtel Joe M,8.4,48.87,2.34
+45,Paris,48.85,2.35,4.37,1017.65,67.42,114827617,Hotel de L'Esperance,8.5,48.84,2.35
+46,Paris,48.85,2.35,4.37,1017.65,67.42,114827617,Hôtel Eiffel Saint Charles,8.9,48.85,2.29
+47,Paris,48.85,2.35,4.37,1017.65,67.42,114827617,Hôtel Brésil Opéra SPA,8.2,48.87,2.34
+48,Paris,48.85,2.35,4.37,1017.65,67.42,114827617,Hôtel Aiglon,8.7,48.84,2.33
+49,Paris,48.85,2.35,4.37,1017.65,67.42,114827617,Hôtel de Banville,8.8,48.89,2.29
