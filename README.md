@@ -1,7 +1,7 @@
 # Welcome! A Data Collection & Management project is available here🩵
 
 
-In this repo you will find **one case study** on building a **Data infrastruture** (storing, collecting with scrapping technic and making available data).
+In this repo you will find **one case study** on building a **Data infrastruture** (storing, collecting with scrapping technic and data storage).
 * The goal was to **select top 5 french cities** 🌇 from 35 in total where **humitidy rate and temperature was ideal** for persons with **arthritis** (*nominatim API*) 🌥️ 🌤️. 
 * After that city selection, I **scrapped Booking website** 🕷️in order to select **top 10 hotels for each of those 5 best cities**. 🏨
 * Then 2 Dataframes obtained has been merged and made accessible by **storing it into a S3 bucket**. 📂
