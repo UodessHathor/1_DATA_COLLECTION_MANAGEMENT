@@ -5,7 +5,7 @@ In this repo you will find **one case study** on building a **Data infrastrutur
 * The goal was to **select top 5 french cities** 🌇, from 35 in total, where **humitidy rate and temperature was ideal** for persons with **arthritis** (*nominatim API*) 🌥️ 🌤️. 
 * After that city selection, I **scrapped Booking website** 🕷️in order to select **top 9 hotels for each of those 5 best cities**. 🏨
 * Then the two Dataframes obtained has been merged and made accessible by **storing it into a S3 bucket**. 📂
-* Finally, I **created a database** so that it can be directly available for working purposes.  ✅
+* Finally, I **created a database** so that it can be directly available by others for analysis purposes.  ✅
 
 ---
 ## ➡️ The project is divided in two parts, please follow this order : 🤗
