@@ -11,6 +11,7 @@ In this repo you will find **one case study** on building a **Data infrastrutur
 ## ➡️ The project is divided in two parts, please follow this order : 🤗
 
  * 🔗 **PART 1** :  Have a look at <ins>*Part_1_Top5_Cities_Weather_dorianedoyondousse.ipynb*</ins>  : top 5 french cities 🌇
+   
         - **Top5cities_forecast_weather.csv** is the dataframe obtained and *used for the rest of the project*. ⭐️ 
         - You can also check those obtained before : 
         - all_cities_forecast.csv : all of the 35 cities weather infos
